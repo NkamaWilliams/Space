@@ -1,6 +1,6 @@
 ## Space
 A simple react app showcasing space.
 
-#Tools used:
+# Tools used:
 - React
 - SASS
